@@ -24,8 +24,6 @@ asyncio.set_event_loop(loop)
 app = Client("my_account", api_id=API_ID, api_hash=API_HASH)
 
 COMMANDS = [
-    "/vino@vinoupbot",
-    "/beer@upbeerbot",
     "/sisi@sisiupbot"
 ]
 
